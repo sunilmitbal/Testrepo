@@ -12,3 +12,10 @@ module "stg" {
 
 }
 
+module "stg" {
+  
+  source          = "../../modules/storageaccount"
+  staccount = var.stgmodule2
+
+}
+
