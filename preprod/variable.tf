@@ -1,0 +1,7 @@
+variable "rgmodule" {
+
+}
+
+variable "stgmodule" {
+
+}
